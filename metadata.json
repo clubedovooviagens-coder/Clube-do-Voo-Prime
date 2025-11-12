@@ -1,0 +1,5 @@
+{
+  "name": "Clube do Voo Prime",
+  "description": "A loyalty program application for Clube do Voo Viagens that allows users to track their points, view tiers, and redeem rewards. It features a dashboard, a rewards catalog, and a user profile section.",
+  "requestFramePermissions": []
+}
